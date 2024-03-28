@@ -6,3 +6,6 @@
 
 # 3. Road Accident Data Analysis
 ![Dashboard](https://github.com/saadakhtarse/excel_projects/assets/98681830/29c73222-825f-4606-b3f5-a304b47e292b)
+
+# 4. Coffee Shope Data Analysis
+![Dashboard Thumbnail](https://github.com/saadakhtarse/excel_projects/assets/98681830/c0f7c9ea-bb7b-4c6e-8fb7-08b3ed788f13)
