@@ -12,5 +12,4 @@
 ![Dashboard Thumbnail](https://github.com/saadakhtarse/excel_projects/assets/98681830/c0f7c9ea-bb7b-4c6e-8fb7-08b3ed788f13)
 
 # 5. Gift Store Data Analysis
-![Uploading Dashboard of finance analysis.png…]()
-
+https://github.com/saadakhtarse/excel_projects/blob/c824877d4ba9bd007ed8c566623a0ce3793da7ce/5.%20Gift%20Shop%20Data%20Analysis/Dashboard%20of%20finance%20analysis.png
