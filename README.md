@@ -9,3 +9,5 @@
 
 # 4. Coffee Shope Data Analysis
 ![Dashboard Thumbnail](https://github.com/saadakhtarse/excel_projects/assets/98681830/c0f7c9ea-bb7b-4c6e-8fb7-08b3ed788f13)
+
+# 5. Gift Store Data Analysis
